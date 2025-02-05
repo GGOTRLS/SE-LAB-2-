@@ -1,7 +1,4 @@
 # SE-LAB-2-
-Sure! Here's an example of a random README text for a GitHub repository:
-
----
 
 # Project Name
 
